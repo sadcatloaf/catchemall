@@ -1,0 +1,17 @@
+/* BASIC STYLES HERE */
+.profile-picture {
+  height: 200px;
+  max-width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+.profile-picture.profile-picture-sm {
+  height: 64px;
+}
+
+body {
+  background-image: url(https://www.bing.com/th/id/OGC.0237f81d5eb630df1bc18505da158fba?pid=1.7&rurl=https%3a%2f%2fi.kym-cdn.com%2fphotos%2fimages%2foriginal%2f001%2f057%2f547%2fd31.gif&ehk=nfEtvLbjYOjhTVEwqqD3G57pTGU%2biC5t1CqliEzTHxc%3d);
+  background-position: center;
+  background-size: cover;
+}
